@@ -1,4 +1,4 @@
-- 👋 Hola, soy @Ñiura-Dev
+- 👋 Hola, soy @ÑiuraDev
 - 👀 Busco resolver problemas de diseño a través de la programación, creando interfaces digitales que sean tanto estéticamente agradables como funcionales.
 - 🌱 Actualmente soy principiante de programación en Oracle Next Education.
 - 💞️ Quiero contribuir con mi código a proyectos de código abierto que busquen crear productos digitales más inclusivos y fáciles de usar.
